@@ -1,25 +1,27 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "spawn_eggs_recipes",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Spawn Eggs Recipes Fabric",
+  "description": "Add many recipes for Spawn Eggs",
   "authors": [
-    "Me!"
+    "InCloudYtCrane",
+    "Ginsway",
+    "xiaoleqwq"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/Ginsway/Spawn-Eggs-Recipes-Fabric",
+    "issues": "https://github.com/Ginsway/Spawn-Eggs-Recipes-Fabric/issues"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "GPL-3.0",
+  "icon": "assets/spawn_eggs_recipes/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.ginsway.spawn_eggs_recipes.SpawnEggsRecipes"
     ]
   },
   "mixins": [
