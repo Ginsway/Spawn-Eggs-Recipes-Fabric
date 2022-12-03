@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "&$&",
+        "$#$",
+        "&$&"
+    ],
+    "key": {
+        "#":{
+            "item":"minecraft:egg"
+        },
+        "$":{
+            "item":"minecraft:cod"
+        },
+        "&":{
+            "item":"minecraft:mutton"
+        }
+    },
+    "result": {
+        "item": "minecraft:ocelot_spawn_egg",
+        "count": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "&$&",
+        "$#$",
+        "&$&"
+    ],
+    "key": {
+        "#":{
+            "item":"minecraft:egg"
+        },
+        "&":{
+            "item":"minecraft:kelp"
+        },
+        "$":{
+            "item":"minecraft:nautilus_shell"
+        }
+    },
+    "result": {
+        "item": "minecraft:dolphin_spawn_egg",
+        "count": 1
+    }
+}

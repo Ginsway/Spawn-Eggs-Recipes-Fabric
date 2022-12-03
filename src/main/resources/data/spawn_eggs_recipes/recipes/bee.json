@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " $ ",
+        "%#%",
+        " $ "
+    ],
+    "key": {
+        "#":{
+            "item":"minecraft:egg"
+        },
+        "$":{
+            "item":"minecraft:honeycomb"
+        },
+        "%":{
+            "item":"minecraft:phantom_membrane"
+        }
+    },
+    "result": {
+        "item": "minecraft:bee_spawn_egg",
+        "count": 1
+    }
+}

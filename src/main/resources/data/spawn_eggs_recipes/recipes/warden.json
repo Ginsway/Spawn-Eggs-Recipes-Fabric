@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "$$$",
+        "%#%",
+        "$$$"
+    ],
+    "key": {
+        "#":{
+            "item":"minecraft:egg"
+        },
+        "$":{
+            "item":"minecraft:echo_shard"
+        },
+        "%":{
+            "item":"minecraft:sculk"
+        }
+    },
+    "result": {
+        "item": "minecraft:warden_spawn_egg",
+        "count": 1
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "&$&",
+        "%#%",
+        "&$&"
+    ],
+    "key": {
+        "#":{
+            "item":"minecraft:egg"
+        },
+        "&":{
+            "item":"minecraft:porkchop"
+        },
+        "$":{
+            "item":"minecraft:gold_nugget"
+        },
+        "%":{
+            "item":"minecraft:porkchop"
+        }
+    },
+    "result": {
+        "item": "minecraft:hoglin_spawn_egg",
+        "count": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "&$&",
+        "$#$",
+        "&$&"
+    ],
+    "key": {
+        "#":{
+            "item":"minecraft:crossbow"
+        },
+        "$":{
+            "item":"minecraft:egg"
+        },
+        "&":{
+            "item":"minecraft:emerald"
+        }
+    },
+    "result": {
+        "item": "minecraft:pillager_spawn_egg",
+        "count": 4
+    }
+}
